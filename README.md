@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Microservices**
 
-- 💬 Ask me about **.Net 6 - Javascirpt**
+- 💬 Ask me about **.Net 6 - Javascript**
 
 - 📫 How to reach me **ahmetarif1254@gmail.com**
 
